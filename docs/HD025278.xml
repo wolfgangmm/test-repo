@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><!-- Fehlende Felder da unklar: 34, 24 -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><!-- Fehlende Felder da unklar: 34, 24 --><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -12,7 +10,7 @@
                 <author/>
             </titleStmt>
             <publicationStmt>
-                <authority>Epigraphische Datenbank Heidelberg 22</authority>
+                <authority>Epigraphische Datenbank Heidelberg 25</authority>
                 <availability>
                     <p>Heidelberger Akademie der Wissenschaften</p>
                     <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the
